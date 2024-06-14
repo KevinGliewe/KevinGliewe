@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the Genome game engine for [ELEX2](https://elexgame.com/) as an core engine developer.
+- 🔭 I’m currently working on the Robot Motion Planner for [ItemPiQ]([https://elexgame.com/](https://www.swisslog.com/en-us/products-systems-solutions/picking-palletizing-order-fulfillment/robot-based-robotics-fully-automated/robotic-piece-picking-itempiq)) as an core engine developer.
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) and [WebGPU](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status)
 
 <p>
